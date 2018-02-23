@@ -205,7 +205,6 @@ p.codrops-demos a.current-demo:hover{
 	width: 100%;
 	background: #000;
 	opacity: 0.9;
-	text-transform: uppercase;
 	z-index: 9999;
 	position: fixed;
 	bottom:0;
